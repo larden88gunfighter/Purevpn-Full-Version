@@ -246,4 +246,4 @@ This repository serves as the official landing page for PureVPN. The software is
 ---
 
 ---
-**Last updated:** 2026-10-20 13:18:44 UTC
+**Last updated:** 2026-10-20 18:19:09 UTC
